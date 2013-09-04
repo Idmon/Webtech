@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class idmon
+ * Servlet implementation class idmon en thijs
  */
 @WebServlet("/idmon")
 public class idmon extends HttpServlet {
